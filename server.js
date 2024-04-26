@@ -15,13 +15,16 @@ const corsOptions = {
 // Use cors middleware
 app.use(cors(corsOptions));
 
+// Serve static files from the 'public' directory
+
+app.use(express.static("public"));
+
 // Use express.json() middleware to parse JSON bodies of requests
 app.use(express.json());
 
 // GET route - Allows to get all the items
 // example: localhost:3000/clothes
 app.get("/products", (req, res) => {
-
   fs.readFile("db.json", "utf8", (err, data) => {
     if (err) {
       console.log(err);

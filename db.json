@@ -1,54 +1,53 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Coat",
-        "price": 89,
-        "description": "Elegance meets warmth in this meticulously tailored coat. Crafted from a luxurious blend of wool and cashmere, this coat features a classic silhouette with a modern twist. Its structured shoulders, notched lapels, and button closure provide a timeless appeal, while the sleek lines and minimalist design offer a contemporary edge. Perfect for layering over both formal and casual ensembles, this coat is a versatile addition to any wardrobe.",
-        "image": "assets/images/products/home_image.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Dress",
-        "price": 40,
-        "description": "Experience the epitome of feminine grace with this enchanting dress. Designed with a flattering fit-and-flare silhouette, this dress features delicate lace detailing, a subtle V-neckline, and a flowing skirt that dances with every step. The soft, breathable fabric ensures comfort without compromising on style, making it ideal for weddings, garden parties, or an elegant evening out. This dress is a testament to timeless beauty and sophistication.",
-        "image": "assets/images/products/dress.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Blazer",
-        "price": 30,
-        "description": "Redefine your office attire with this impeccably tailored blazer. Constructed from premium quality fabric, this blazer boasts a slim fit that accentuates the waist, notched lapels for a touch of professionalism, and a single button closure for a sleek finish. The versatile design allows it to be paired with trousers or skirts alike, making it an essential piece for the modern professional seeking to make a statement.",
-        "image": "assets/images/products/blazer.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Pants",
-        "price": 20,
-        "description": "Discover the perfect blend of comfort and style with these chic pants. Featuring a flattering high waist and a straight-leg design, these pants are crafted from a soft, stretchable fabric that moves with you. The minimalist aesthetic is punctuated by subtle seam details, making them a versatile choice for both casual and formal settings. Pair them with a blouse and heels for a polished look, or with a sweater and sneakers for a casual day out.",
-        "image": "assets/images/products/pants.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Yellow complet",
-        "price": 90,
-        "description": "Brighten up your wardrobe with this vibrant yellow complet, a striking ensemble that promises to turn heads. The set includes a perfectly fitted blazer and matching trousers, both crafted from a high-quality fabric with a hint of stretch for comfort. The blazer features a smart, single-breasted design with clean lines, while the trousers offer a slim fit that flatters the figure. Ideal for adding a pop of color to your professional or evening wear, this complet is a bold statement piece.",
-        "image": "assets/images/products/yellow_complet.jpg"
-      },
-      {
-        "id": 6,
-        "name": "Jumpsuit",
-        "price": 50,
-        "description": "Embrace effortless elegance with this sophisticated jumpsuit. Designed with a focus on fluidity and form, this piece features a flattering wrap-style front, cinched waist, and wide-leg trousers that elongate the figure. The soft, draping fabric adds a touch of luxury, making it perfect for special occasions or a chic office look. With its easy zip-up back and pockets for practicality, this jumpsuit combines fashion with function in the most stylish way.",
-        "image": "assets/images/products/silver_jumpsuit.jpg"
-      },
-      {
-        "id": 7,
-        "name": "Silver complet",
-        "price": 90,
-        "description": "Make a dazzling entrance in this exquisite silver complet, a glamorous ensemble designed for the fashion-forward individual. This set includes a shimmering blazer and coordinating trousers, both crafted from a luxurious, metallic-finished fabric that catches the light with every move. The blazer features a sleek, modern cut with a lapel collar and button closure, while the trousers are tailored for a slim, flattering fit. Perfect for evening events, parties, or any occasion where you want to stand out, this complet is a showstopper.",
-        "image": "assets/images/products/silver_complet.jpg"
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "name": "Coat",
+      "price": 89,
+      "description": "Elegance meets warmth in this meticulously tailored coat. Crafted from a luxurious blend of wool and cashmere, this coat features a classic silhouette with a modern twist. Its structured shoulders, notched lapels, and button closure provide a timeless appeal, while the sleek lines and minimalist design offer a contemporary edge. Perfect for layering over both formal and casual ensembles, this coat is a versatile addition to any wardrobe.",
+      "image": "home_image.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dress",
+      "price": 40,
+      "description": "Experience the epitome of feminine grace with this enchanting dress. Designed with a flattering fit-and-flare silhouette, this dress features delicate lace detailing, a subtle V-neckline, and a flowing skirt that dances with every step. The soft, breathable fabric ensures comfort without compromising on style, making it ideal for weddings, garden parties, or an elegant evening out. This dress is a testament to timeless beauty and sophistication.",
+      "image": "dress.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Blazer",
+      "price": 30,
+      "description": "Redefine your office attire with this impeccably tailored blazer. Constructed from premium quality fabric, this blazer boasts a slim fit that accentuates the waist, notched lapels for a touch of professionalism, and a single button closure for a sleek finish. The versatile design allows it to be paired with trousers or skirts alike, making it an essential piece for the modern professional seeking to make a statement.",
+      "image": "blazer.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pants",
+      "price": 20,
+      "description": "Discover the perfect blend of comfort and style with these chic pants. Featuring a flattering high waist and a straight-leg design, these pants are crafted from a soft, stretchable fabric that moves with you. The minimalist aesthetic is punctuated by subtle seam details, making them a versatile choice for both casual and formal settings. Pair them with a blouse and heels for a polished look, or with a sweater and sneakers for a casual day out.",
+      "image": "pants.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Yellow complet",
+      "price": 90,
+      "description": "Brighten up your wardrobe with this vibrant yellow complet, a striking ensemble that promises to turn heads. The set includes a perfectly fitted blazer and matching trousers, both crafted from a high-quality fabric with a hint of stretch for comfort. The blazer features a smart, single-breasted design with clean lines, while the trousers offer a slim fit that flatters the figure. Ideal for adding a pop of color to your professional or evening wear, this complet is a bold statement piece.",
+      "image": "yellow_complet.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jumpsuit",
+      "price": 50,
+      "description": "Embrace effortless elegance with this sophisticated jumpsuit. Designed with a focus on fluidity and form, this piece features a flattering wrap-style front, cinched waist, and wide-leg trousers that elongate the figure. The soft, draping fabric adds a touch of luxury, making it perfect for special occasions or a chic office look. With its easy zip-up back and pockets for practicality, this jumpsuit combines fashion with function in the most stylish way.",
+      "image": "silver_jumpsuit.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Silver complet",
+      "price": 90,
+      "description": "Make a dazzling entrance in this exquisite silver complet, a glamorous ensemble designed for the fashion-forward individual. This set includes a shimmering blazer and coordinating trousers, both crafted from a luxurious, metallic-finished fabric that catches the light with every move. The blazer features a sleek, modern cut with a lapel collar and button closure, while the trousers are tailored for a slim, flattering fit. Perfect for evening events, parties, or any occasion where you want to stand out, this complet is a showstopper.",
+      "image": "silver_complet.jpg"
+    }
+  ]
+}
