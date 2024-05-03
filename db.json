@@ -1,13 +1,6 @@
 {
   "products": [
     {
-      "id": 0,
-      "name": "Novy coat",
-      "price": 69,
-      "description": "Elegance meets warmth in this meticulously tailored coat. Crafted from a luxurious blend of wool and cashmere, this coat features a classic silhouette with a modern twist. Its structured shoulders, notched lapels, and button closure provide a timeless appeal, while the sleek lines and minimalist design offer a contemporary edge. Perfect for layering over both formal and casual ensembles, this coat is a versatile addition to any wardrobe.",
-      "image": "dress.jpg"
-    },
-    {
       "id": 1,
       "name": "Coat",
       "price": 89,
